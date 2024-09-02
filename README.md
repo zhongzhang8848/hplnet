@@ -21,11 +21,7 @@ datasets
 ├── msmt17
     └── MSMT17_V1
 ```
-Download the testing data, the link is:
-```
-链接：https://pan.baidu.com/s/1XPuK4wfFDGVJ3Jt2fH2d2w?pwd=zwjm 
-提取码：zwjm 
-```
+Download the testing data, the link is: [Baidu Netdisk](https://pan.baidu.com/s/1XPuK4wfFDGVJ3Jt2fH2d2w?pwd=zwjm ), Password: zwjm
 
 ### Test on MSMT17-to-Market1501
 ```
