@@ -1,0 +1,8 @@
+2024-08-20 14:21:34,173-INFO-Testing-logger.py-122: Logger 'Testing' will be written at ./results/Testing.log
+2024-08-20 14:21:34,173-INFO-Testing-test.py-19: Namespace(data_dir='/sda/hd/datasets/reid_datasets', fea_dir='./test_feats.pkl', output_dir='./results')
+2024-08-20 14:23:09,605-INFO-Testing-test.py-26: Total running time of loading features: 0:01:35.160531
+2024-08-20 14:23:09,613-INFO-Testing-test.py-28: Testing on the target domain (Market1501):
+2024-08-20 14:23:18,793-INFO-Testing-test.py-31: mAP: 87.2%
+2024-08-20 14:23:18,794-INFO-Testing-test.py-33: CMC curve, Rank-1  95.0%
+2024-08-20 14:23:18,794-INFO-Testing-test.py-33: CMC curve, Rank-5  98.1%
+2024-08-20 14:23:18,794-INFO-Testing-test.py-33: CMC curve, Rank-10 98.8%
